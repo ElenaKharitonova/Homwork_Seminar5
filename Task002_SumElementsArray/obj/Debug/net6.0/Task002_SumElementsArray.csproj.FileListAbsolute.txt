@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\bin\Debug\net6.0\Task002_SumElementsArray.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\bin\Debug\net6.0\Task002_SumElementsArray.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\bin\Debug\net6.0\Task002_SumElementsArray.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\bin\Debug\net6.0\Task002_SumElementsArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\bin\Debug\net6.0\Task002_SumElementsArray.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\refint\Task002_SumElementsArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\Task002_SumElementsArray.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task002_SumElementsArray\obj\Debug\net6.0\ref\Task002_SumElementsArray.dll

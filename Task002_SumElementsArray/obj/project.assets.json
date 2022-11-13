@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar5\\Task002_SumElementsArray\\Task002_SumElementsArray.csproj",
+      "projectName": "Task002_SumElementsArray",
+      "projectPath": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar5\\Task002_SumElementsArray\\Task002_SumElementsArray.csproj",
+      "packagesPath": "C:\\Users\\ЕЛЕНА\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ЕЛЕНА\\Desktop\\Отработка git\\Homework\\C#\\Seminar5\\Task002_SumElementsArray\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ЕЛЕНА\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
