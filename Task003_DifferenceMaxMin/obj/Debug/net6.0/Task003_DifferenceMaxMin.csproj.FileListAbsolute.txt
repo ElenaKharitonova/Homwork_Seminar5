@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\bin\Debug\net6.0\Task003_DifferenceMaxMin.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\bin\Debug\net6.0\Task003_DifferenceMaxMin.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\bin\Debug\net6.0\Task003_DifferenceMaxMin.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\bin\Debug\net6.0\Task003_DifferenceMaxMin.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\bin\Debug\net6.0\Task003_DifferenceMaxMin.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\refint\Task003_DifferenceMaxMin.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\Task003_DifferenceMaxMin.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar5\Task003_DifferenceMaxMin\obj\Debug\net6.0\ref\Task003_DifferenceMaxMin.dll
